@@ -1,5 +1,5 @@
-# app_android_meditec
-Aplicativo do evento Meditec 
+# Meditec - Aplicativo Android
+Aplicativo criado para o evento Meditec.
 
 
 ========= Intruções de importação dos fontes para a IDE Eclipse =========================================
