@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_aplication"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_titles"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/meditec" />
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="br.net.meditec.view.fragment.MenuFragmentSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        class="br.net.meditec.view.fragment.MenuFragmentSpinner"
+        android:background="@drawable/background_aplication" />
+
+    <LinearLayout
+        android:id="@+id/screen_aplication_agenda"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background_fragment"
+        android:gravity="center"
+        android:orientation="vertical" />
+
+</LinearLayout>

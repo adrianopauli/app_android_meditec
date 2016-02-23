@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meditec 5</string>
+    <string name="text_updating">Atualizando</string>
+    <string name="text_update">Atualizado</string>
+    <string name="text_update_err">Problemas na Atualização</string>
+    <string name="text_not_connection">Conecte - se a uma rede WIFI ou Mobile</string>
+    <string name="text_vagas">Vagas</string>
+    <string name="text_event">Sobre o Evento</string>
+    <string name="text_palestrante">Sobre o Palestrante</string>
+    <string name="text_edit_user">Alterar credenciais de acesso</string>
+    <string name="menu_update">Atualizar</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="menu_user">Usuário</string>
+    <string name="bt_login">Entrar</string>
+    <string name="bt_save">Salvar</string>
+    <string name="bt_cancel">Cancelar</string>
+    <string name="hint_login">CPF</string>
+    <string name="hint_password">Senha</string>
+    <string name="toast_login_never">Login ou senha inválido(s)</string>
+    <string name="toast_server_never">Serviço não está disponivel</string>
+    <string name="about_programing">Desenvolvido por:</string>
+    <string name="about_author">Adriano Pauli</string>
+    <string name="about_email">adrianopauli03@gmail.com</string>
+</resources>

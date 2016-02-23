@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_list"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/layout_eventos_text_type"
+        style="@style/text_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Palestra" />
+
+    <TextView
+        android:id="@+id/layout_eventos_text_title"
+        style="@style/text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/executive" />
+
+        <TextView
+            android:id="@+id/layout_eventos_text_palestrante"
+            style="@style/text_palestrante"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/calendar" />
+
+        <TextView
+            android:id="@+id/layout_eventos_text_date"
+            style="@style/text_data"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="20:30 - 21:30" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock" />
+
+        <TextView
+            android:id="@+id/layout_eventos_text_timer"
+            style="@style/text_data"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="8 h" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="1dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lab" />
+
+        <TextView
+            android:id="@+id/layout_eventos_text_sala"
+            style="@style/text_local"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="Lab L12" />
+    </LinearLayout>
+
+</LinearLayout>
