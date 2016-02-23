@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventos>
+	<event>
+		<id>01</id>
+		<title>Paletra sobre 1</title>
+		<des>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse erat justo, fringilla in massa nec, porttitor ultrices orci. Donec nulla eros, venenatis eu pharetra vel, mollis at ligula. Maecenas fermentum odio nec suscipit pulvinar. Pellentesque nisi massa, maximus ac ante vel, bibendum dignissim est. In quam urna, vulputate sit amet.</des>
+		<data>15-04-2012</data>
+		<dur>4</dur>
+		<inicio>8</inicio>
+		<fim>12</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>01</pal>
+	</event>
+	<event>
+		<id>02</id>
+		<title>Paletra sobre 2</title>
+		<des>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse erat justo, fringilla in massa nec, porttitor ultrices orci. Donec nulla eros, venenatis eu pharetra vel, mollis at ligula. Maecenas fermentum odio nec suscipit pulvinar. Pellentesque nisi massa, maximus ac ante vel, bibendum dignissim est. In quam urna, vulputate sit amet.</des>
+		<data>16-04-2012</data>
+		<dur>4</dur>
+		<inicio>8</inicio>
+		<fim>12</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>01</pal>
+	</event>
+	<event>
+		<id>03</id>
+		<title>Paletra sobre 3</title>
+		<des>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse erat justo, fringilla in massa nec, porttitor ultrices orci. Donec nulla eros, venenatis eu pharetra vel, mollis at ligula. Maecenas fermentum odio nec suscipit pulvinar. Pellentesque nisi massa, maximus ac ante vel, bibendum dignissim est. In quam urna, vulputate sit amet.</des>
+		<data>17-04-2012</data>
+		<dur>4</dur>
+		<inicio>8</inicio>
+		<fim>12</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>01</pal>
+	</event>
+	<event>
+		<id>04</id>
+		<title>Paletra sobre 4</title>
+		<des>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce turpis orci, tempus eget mi id, porta aliquam sapien. Etiam tristique vulputate sollicitudin. Proin nulla risus, iaculis ac auctor at, imperdiet a libero. Vestibulum libero ante, efficitur ut scelerisque sit amet, porta scelerisque nulla. Aliquam nec massa at elit euismod volutpat. Morbi molestie consectetur faucibus. Cras eu quam a ex varius commodo. Morbi at sollicitudin nunc, eget lacinia quam. Fusce elementum venenatis ex at pellentesque.</des>
+		<data>15-04-2012</data>
+		<dur>4</dur>
+		<inicio>8</inicio>
+		<fim>12</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>05</pal>
+	</event>
+	<event>
+		<id>05</id>
+		<title>Mini curso sobre 1</title>
+		<des>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce turpis orci, tempus eget mi id, porta aliquam sapien. Etiam tristique vulputate sollicitudin. Proin nulla risus, iaculis ac auctor at, imperdiet a libero. Vestibulum libero ante, efficitur ut scelerisque sit amet, porta scelerisque nulla. Aliquam nec massa at elit euismod volutpat. Morbi molestie consectetur faucibus. Cras eu quam a ex varius commodo. Morbi at sollicitudin nunc, eget lacinia quam. Fusce elementum venenatis ex at pellentesque.</des>
+		<data>16-04-2012</data>
+		<dur>4</dur>
+		<inicio>8:20</inicio>
+		<fim>12:50</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>04</pal>
+	</event>
+	<event>
+		<id>06</id>
+		<title>Mini Curso 6</title>
+		<des>cfsacfvfdavdabadbdfb sdk jvs ljpsdjv sjdsçv jdsvjçajvn psdajvnp dsjnv çsjvn psdjnvpsdjn vsjdnvp sjdnvp sdijn vpdsij vpsidjnv ijsd Possui Bacharelado em Ciência da Computação pela Universidade Federal de Santa Catarina (1988), Mestrado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (1990), Doutorado em Engenharia de Produção pela Universidade Federal de Santa Catarina (1993) e Pós-Doutorado pela Universidade Nova de Lisboa (1998). Atualmente é Professor Associado IV da Universidade Federal de Santa Catarina. </des>
+		<data>17-04-2012</data>
+		<dur>4</dur>
+		<inicio>8:20</inicio>
+		<fim>12:50</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>02</pal>
+	</event>
+	<event>
+		<id>08</id>
+		<title>Mini Curso 8</title>
+		<des>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce turpis orci, tempus eget mi id, porta aliquam sapien. Etiam tristique vulputate sollicitudin. Proin nulla risus, iaculis ac auctor at, imperdiet a libero. Vestibulum libero ante, efficitur ut scelerisque sit amet, porta scelerisque nulla. Aliquam nec massa at elit euismod volutpat. Morbi molestie consectetur faucibus. Cras eu quam a ex varius commodo. Morbi at sollicitudin nunc, eget lacinia quam. Fusce elementum venenatis ex at pellentesque.</des>
+		<data>17-04-2012</data>
+		<dur>4</dur>
+		<inicio>8:20</inicio>
+		<fim>12:50</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>03</pal>
+	</event>
+		<event>
+		<id>09</id>
+		<title>Mini Curso 9</title>
+		<des>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce turpis orci, tempus eget mi id, porta aliquam sapien. Etiam tristique vulputate sollicitudin. Proin nulla risus, iaculis ac auctor at, imperdiet a libero. Vestibulum libero ante, efficitur ut scelerisque sit amet, porta scelerisque nulla. Aliquam nec massa at elit euismod volutpat. Morbi molestie consectetur faucibus. Cras eu quam a ex varius commodo. Morbi at sollicitudin nunc, eget lacinia quam. Fusce elementum venenatis ex at pellentesque.</des>
+		<data>15-04-2012</data>
+		<dur>4</dur>
+		<inicio>21:20</inicio>
+		<fim>24:20</fim>
+		<vagas>40</vagas>
+		<type>Mini Curso</type>
+		<local>lab i23</local>
+		<pal>01</pal>
+	</event>
+</eventos>
